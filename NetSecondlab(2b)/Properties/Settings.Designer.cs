@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace NetSecondlab_2b_.Properties
+namespace Laba4_13var.Properties
 {
 
 

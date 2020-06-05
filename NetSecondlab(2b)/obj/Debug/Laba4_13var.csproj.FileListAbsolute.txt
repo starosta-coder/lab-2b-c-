@@ -1,0 +1,10 @@
+C:\Users\kuruc\OneDrive\Рабочий стол\source\Laba4_13var\bin\Debug\Laba4_13var.exe.config
+C:\Users\kuruc\OneDrive\Рабочий стол\source\Laba4_13var\bin\Debug\Laba4_13var.exe
+C:\Users\kuruc\OneDrive\Рабочий стол\source\Laba4_13var\bin\Debug\Laba4_13var.pdb
+C:\Users\kuruc\OneDrive\Рабочий стол\source\Laba4_13var\obj\Debug\Laba4_13var.csprojAssemblyReference.cache
+C:\Users\kuruc\OneDrive\Рабочий стол\source\Laba4_13var\obj\Debug\Laba4_13var.Form1.resources
+C:\Users\kuruc\OneDrive\Рабочий стол\source\Laba4_13var\obj\Debug\Laba4_13var.Properties.Resources.resources
+C:\Users\kuruc\OneDrive\Рабочий стол\source\Laba4_13var\obj\Debug\Laba4_13var.csproj.GenerateResource.cache
+C:\Users\kuruc\OneDrive\Рабочий стол\source\Laba4_13var\obj\Debug\Laba4_13var.csproj.CoreCompileInputs.cache
+C:\Users\kuruc\OneDrive\Рабочий стол\source\Laba4_13var\obj\Debug\Laba4_13var.exe
+C:\Users\kuruc\OneDrive\Рабочий стол\source\Laba4_13var\obj\Debug\Laba4_13var.pdb
